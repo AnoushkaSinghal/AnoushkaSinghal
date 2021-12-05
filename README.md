@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AnoushkaSinghal/AnoushkaSinghal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on making connections and learning from hackathon events
 - 🌱 I’m currently learning react and front-end web development
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/anoushkasinghal/
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I know 5 languages
--->
+
